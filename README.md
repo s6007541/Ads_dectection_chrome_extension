@@ -7,3 +7,14 @@ This is part of the research purpose to analyse behavior of users and relation b
   <img width="713" alt="slide1" src="https://user-images.githubusercontent.com/31609767/204457995-d5095d45-97f2-4c2b-a3ae-1433e799a6b6.png">
 </p>
 
+<p align="center">
+  <img width="711" alt="slide2" src="https://user-images.githubusercontent.com/31609767/204458408-b1954ffc-1b45-425a-9cc0-9a0622db1d10.png">
+</p>
+
+<p align="center">
+  <img width="725" alt="slide3" src="https://user-images.githubusercontent.com/31609767/204458420-ece628e9-18ad-4839-b111-0fe446501b74.png">
+</p>
+
+<p align="center">
+  <img width="717" alt="slide4" src="https://user-images.githubusercontent.com/31609767/204458429-d7ff68a1-dd7c-496b-bbf6-bbec3079fcba.png">
+</p>
