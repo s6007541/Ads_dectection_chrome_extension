@@ -1,0 +1,35 @@
+{
+    "manifest_version" : 3,
+
+    "name": "Youtube ad check",
+    "description": "Youtube ad check",
+    "version": "1.0",
+
+    // "icons": {
+    //     "16": "",
+    //     "48": "",
+    //     "128": ""
+    // },
+
+    // "page_action": {
+    //     "default_icon":{
+    //         "16": "",
+    //         "48": "",
+    //         "128": ""
+    //     }
+       
+    // },
+
+    "content_scripts": [{
+        "js": ["script.js"],
+        "run_at": "document_idle",
+        "matches": ["https://www.youtube.com/watch*"]
+    
+    }],
+
+    "permissions": [
+        "tabs",
+        "activeTab",
+        "downloads"
+    ]
+}
