@@ -4,5 +4,4 @@ Chrome extension to extract information from advertisement while you browsing.
 
 This is part of the research purpose to analyse behavior of users and relation between users and online advertisement.
 
-<img src="https://github.com/s6007541/Ads_dectection_chrome_extension/tree/main/images/slide1.png" width="128"/>
-
+<img width="713" alt="slide1" src="https://user-images.githubusercontent.com/31609767/204457995-d5095d45-97f2-4c2b-a3ae-1433e799a6b6.png">
